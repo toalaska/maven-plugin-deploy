@@ -45,3 +45,6 @@
             </execution>
         </executions>
     </plugin>
+
+# TODO
+    执行远程脚本
