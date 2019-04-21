@@ -31,6 +31,8 @@
         <configuration>
             <basedir>${basedir}</basedir>
             <host>192.168.199.241</host>
+            <user>root</user>
+            <!-- <psw>your pwd</psw> -->
             <id_rsa_path>C:\Users\Myra\.ssh\id_rsa</id_rsa_path>
             <files>nh.png:/tmp/dddd/nh.png</files>
         </configuration>
