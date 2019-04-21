@@ -23,6 +23,7 @@
 
 
 ## 部署文件
+    psw和id_rsa_path 二选一
     
     <plugin>
         <groupId>cn.toalaska</groupId>
